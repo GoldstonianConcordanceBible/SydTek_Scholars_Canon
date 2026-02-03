@@ -1,0 +1,2 @@
+incident_id,date,category,environment,owner,status,private_record_ref,notes_public_safe
+INC-0001,YYYY-MM-DD,TBD,online/hybrid/in-person,TBD,open,PRIV-INC-0001,TBD
