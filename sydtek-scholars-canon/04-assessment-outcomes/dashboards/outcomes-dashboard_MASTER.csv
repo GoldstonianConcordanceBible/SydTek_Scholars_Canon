@@ -1,0 +1,6 @@
+period,grade_band,domain,metric_name,metric_value,notes_public_safe
+YYYY-MM,K-2,ELA,students_on_track_pct,TBD,TBD
+YYYY-MM,3-5,Math,students_on_track_pct,TBD,TBD
+YYYY-MM,6-8,Science,students_on_track_pct,TBD,TBD
+YYYY-MM,9-12,History,students_on_track_pct,TBD,TBD
+YYYY-MM,All,Worldview,portfolio_alignment_score_avg,TBD,TBD
