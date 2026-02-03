@@ -1,0 +1,26 @@
+name: Policy Change
+description: Propose a change to a policy/standard
+title: "[POLICY] "
+labels: ["policy", "triage"]
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed Change
+      description: Describe what should change.
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why? Include risks addressed.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Links, references, or internal rationale.
+    validations:
+      required: false
