@@ -1,0 +1,26 @@
+name: Audit Finding
+description: Report a compliance/audit concern or gap
+title: "[AUDIT] "
+labels: ["audit", "triage"]
+body:
+  - type: textarea
+    id: finding
+    attributes:
+      label: Finding
+      description: What is the issue/gap?
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: File paths or sections involved.
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: Recommendation
+      description: What should change?
+    validations:
+      required: true
