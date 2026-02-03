@@ -1,0 +1,2 @@
+incident_id,date,category,severity,status,owner,private_record_ref,notes_public_safe
+INC-0001,YYYY-MM-DD,safety/behavior/tech,s1/s2/s3,open,TBD,PRIV-INC-0001,TBD
