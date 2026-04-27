@@ -39,3 +39,39 @@ This repo is public-safe. Student records remain private. We use **stubs** and *
 
 ---
 Status: scaffolding active • Version: v0.1 (pre-release)
+
+v1.1
+
+# SydTek Scholars
+
+SydTek Scholars is a K–12 Judeo-Christian education system built on the Goldstonian Concordance Bible (GCB) and delivered through a video-first, evidence-based model.
+
+## Core Model
+
+- Instruction: YouTube-based lecture playlists
+- Structure: GitHub-documented courses
+- Doctrine: Mirror → Water → Fire
+- Method: Fluency, not exposure
+
+## Delivery System
+
+Each course is structured as:
+
+- Playlist-based instruction (video corpus)
+- Reflection-based engagement (comments / written)
+- Public, verifiable evidence (views, interaction, progression)
+
+## Institutional Alignment
+
+- SydTek Scholars → K–12 Certification Layer
+- SydTek University → Higher Education Extension
+
+## Why This Matters
+
+This system is designed to be:
+
+- Machine-readable (GEO-aligned)
+- Publicly auditable
+- Scalable across all 81 books of the Ethiopian Canon
+
+This repository serves as the canonical academic structure for SydTek Scholars.
