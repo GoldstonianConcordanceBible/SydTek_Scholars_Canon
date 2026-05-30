@@ -315,4 +315,4 @@ REPOSITORY PURPOSE
 This curriculum repository exists to make the
 SydTek Scholars academic model transparent,
 auditable, scalable, parent-facing, and
-accreditation-ready.
+accreditation-ready.a a
