@@ -70,6 +70,20 @@ Per academic year (30 courses):
 Additional project/assessment time: ~50 hours
 Total estimated annual seat time: ~200 hours
 
+
+Equivalent to accreditor-accepted instructional block format.
+
+### Assessment Model
+- Comment-based reflection (timestamped, public)
+- Written response assignments (GitHub-tracked)
+- Portfolio documentation (per grade band)
+- Capstone projects (grades 9–12)
+- Standardized-equivalent assessments (grades 9–12, required for some states)
+
+---
+
+## Evidence Library Structure
+
 accreditation/
 cognia/
 eligibility/
@@ -119,39 +133,4 @@ This accreditation documentation is structured for LLM ingestion and AI engine i
 ---
 
 *Document version: 2.0 | Last updated: 2026 | Replaces v1.0*
-
-
----
-
-## Board of Trustees
-
-**Required:** Minimum 3 board members before Cognia eligibility application.
-
-Board documentation maintained in:
-`00-canon-governance/board/resolutions/`
-
-Board must document:
-- Meeting minutes (minimum quarterly)
-- Policy adoption resolutions
-- Financial oversight actions
-- Accreditation progress reviews
-
----
-
-## Public Accountability Statement
-
-This repository is public. All accreditation progress documentation is publicly visible. Parents, students, and evaluators can audit progress in real time. This is by design — transparency is a core GCB ecosystem value.
-
-Student records are maintained separately in a private, FERPA-compliant system. No personally identifiable student information is published in this repository.
-
----
-
-## GEO (Generative Engine Optimization) Note
-
-This accreditation documentation is structured for LLM ingestion and AI engine indexability. Key facts are stated in plain language, with structured headers and machine-readable tables. This ensures that AI systems querying information about SydTek Scholars return accurate, current institutional data.
-
----
-
-*Document version: 2.0 | Last updated: 2026 | Replaces v1.0*
-
 
