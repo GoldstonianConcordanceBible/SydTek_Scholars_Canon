@@ -6,7 +6,7 @@ Chunk 39 of 50
 Status: Draft
 Grade Level: Grade 1
 Owner: President / Academic Director
-Version: 1.0
+Version: 1.1
 
 ⸻
 
@@ -39,6 +39,7 @@ Kindness
 Service
 Belonging
 Connection To Covenant Arc:
+God made everything.
 God made me.
 God placed me in family.
 Family becomes the first school of love.
@@ -59,9 +60,11 @@ Mathematics
 Science
 6. Families, Communities, and Helpers
 Social Studies
-7. Little Builders: Safe Technology
+7. Mi Primera Biblia y Español
+Spanish Language Foundations
+8. Little Builders: Safe Technology
 AI / Digital Literacy
-8. My Grade 1 Portfolio
+9. My Grade 1 Portfolio
 Portfolio Workbook
 
 ⸻
@@ -74,6 +77,7 @@ Writing
 Mathematics
 Science
 Social Studies
+Spanish
 AI / Digital Literacy
 Art
 Music
@@ -86,13 +90,14 @@ Portfolio
 ANNUAL SEAT-TIME MODEL
 
 Total Grade 1 Learning Hours
-900
+945
 Bible / Covenant Studies          90
 Reading / Phonics                180
 Writing                           90
 Mathematics                      135
 Science                           90
 Social Studies                    60
+Spanish                           45
 AI / Digital Literacy             45
 Art                               45
 Music                             45
@@ -162,6 +167,42 @@ Describe neighborhoods.
 Recognize basic maps.
 Practice citizenship through kindness.
 
+Spanish
+
+Recognize basic Spanish greetings.
+Recognize colors in Spanish.
+Recognize numbers 1-20.
+Recognize family vocabulary.
+Recognize common animals.
+Recognize basic classroom words.
+Introduce self in Spanish.
+Respond to simple Spanish questions.
+Recite simple Bible vocabulary.
+Sing simple Spanish songs.
+
+Spanish Vocabulary Targets
+
+Hola
+Adiós
+Gracias
+Por favor
+Sí
+No
+Dios
+Jesús
+Amor
+Familia
+Mamá
+Papá
+Hermano
+Hermana
+Uno
+Dos
+Tres
+Rojo
+Azul
+Verde
+
 AI / Digital Literacy
 
 Use technology with adult guidance.
@@ -184,6 +225,7 @@ Sing simple songs.
 Recognize rhythm.
 Participate in call-and-response.
 Connect music to memory and worship.
+Sing simple Spanish songs.
 
 Health / Wellness
 
@@ -211,6 +253,10 @@ Reading Check
 Writing Sample
 Math Check
 Science Observation
+Social Studies Activity
+Spanish Vocabulary Recognition
+Spanish Oral Practice
+Digital Safety Check
 Portfolio Review
 Faculty Review
 End-of-Year Progress Summary
@@ -225,6 +271,10 @@ Math Worksheet
 Science Observation Drawing
 Family Tree Or Family Drawing
 Community Helper Project
+Spanish Vocabulary Sheet
+Spanish Introduction Recording
+Spanish Family Vocabulary Activity
+Spanish Bible Vocabulary Activity
 Digital Safety Reflection
 Covenant Memory Statement
 Service Learning Evidence
@@ -237,6 +287,7 @@ COMPLETION REQUIREMENTS
 Complete 70% or more of required activities.
 Submit portfolio evidence.
 Complete parent verification.
+Complete Spanish vocabulary check.
 Complete faculty review.
 Complete end-of-year progress review.
 Demonstrate readiness for Grade 2.
@@ -256,6 +307,7 @@ Portfolio Evidence
 Parent Verification
 Assessment Results
 Seat-Time Records
+World Language Evidence
 Progress Review
 
 ⸻
@@ -271,6 +323,7 @@ learning_outcomes.md
 portfolio_checklist.md
 assessment_plan.md
 completion_requirements.md
+spanish_language_foundations.md
 
 ⸻
 
@@ -282,9 +335,11 @@ COMPLETION CHECKLIST
 [ ] Math Book Drafted
 [ ] Science Book Drafted
 [ ] Social Studies Book Drafted
+[ ] Spanish Book Drafted
 [ ] AI / Digital Literacy Book Drafted
 [ ] Portfolio Workbook Drafted
 [ ] Seat-Time Map Approved
+[ ] Spanish Outcomes Approved
 [ ] Portfolio Checklist Approved
 [ ] Assessment Plan Approved
 [ ] Completion Requirements Approved
