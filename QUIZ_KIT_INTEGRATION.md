@@ -208,3 +208,76 @@ This enables segmented email flows triggered by quiz completion.
 
 On quiz completion + product purchase:
 
+Quiz completed
+↓
+Customer tags assigned (stage + state + goal + GCB level)
+↓
+Parent purchases recommended bundle
+↓
+Dashboard unlocks at sydtekscholars.com/dashboard
+↓
+Dashboard pre-populated with:
+- Stage (from stage: tag)
+- State compliance card (from state: tag)
+- Curriculum access (from bundle purchase)
+- K–PhD pipeline position (from stage: tag)
+- Onboarding track (from gcb: tag)
+
+
+---
+
+## Installation Steps
+
+1. Go to Shopify Admin → Apps → Search "Quiz Kit"
+2. Install Quiz Kit: Product Quiz Maker (Presidio)
+3. Select plan (Free plan sufficient for launch — upgrade at 5,000 engagements)
+4. Build quiz using visual builder (questions above)
+5. Configure result pages (one per stage)
+6. Set up tag assignment rules (table above)
+7. Connect Klaviyo (Settings → Integrations → Klaviyo → paste API key)
+8. Embed quiz on `/pages/placement-quiz` via Quiz Kit embed code
+9. Add quiz CTA to homepage pipeline section
+10. Test all logic branches before going live
+
+---
+
+## Analytics to Monitor
+
+| Metric | Target | Action if Below Target |
+|---|---|---|
+| Quiz start rate | >30% of page visitors | A/B test headline |
+| Quiz completion rate | >60% of starters | Reduce question count or add progress bar |
+| Mirror bundle conversion | >20% of Mirror results | Review Mirror result page copy |
+| Water bundle conversion | >20% of Water results | Review Water result page copy |
+| Fire bundle conversion | >20% of Fire results | Review Fire result page copy |
+| Email capture rate | >70% of completions | Make email capture non-optional |
+| State compliance click-through | >50% of compliance-flagged | Strengthen compliance CTA in results |
+
+---
+
+## Pricing Recommendation
+
+| Phase | Plan | Monthly Cost | Capacity |
+|---|---|---|---|
+| Launch (0–5K engagements) | Free | $0 | 5,000 quiz engagements |
+| Growth (5K–10K) | Starter | $59/mo | + $0.04/engagement over 5K |
+| Scale (10K+) | Pro | $249/mo | Full feature set + unlimited |
+
+Start on free plan. Upgrade to Starter when you hit 5,000 quiz completions.
+The $249 plan unlocks full email gating and advanced analytics — not needed at launch.
+
+---
+
+## File References
+
+- Quiz embed code → `snippets/quiz-kit-embed.liquid` (Shopify theme)
+- Result page content → `templates/page.quiz-result-mirror.liquid`
+- Result page content → `templates/page.quiz-result-water.liquid`
+- Result page content → `templates/page.quiz-result-fire.liquid`
+- Tag routing logic → documented above in this file
+- Klaviyo flows → documented above in this file
+
+---
+
+*Document version: 1.0 | Last updated: 2026*
+*App: Quiz Kit by Presidio | apps.shopify.com/quiz-kit*
