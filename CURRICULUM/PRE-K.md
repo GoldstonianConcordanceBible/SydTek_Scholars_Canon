@@ -1,180 +1,290 @@
-CURRICULUM_SEQUENCE.md
-
-SydTek Scholars Canon
-Grade-Level Curriculum Sequence
-Version 1.0
-
-⸻
-
-PRE-K
-
-Chunk 37
 PRE_K_CURRICULUM.md
 
-Grade Theme
+SydTek Scholars Canon
+Grade-Level Curriculum Framework
+Chunk 37 of 50
+Status: Draft
+Grade Level: Pre-K
+Owner: President / Academic Director
+Version: 1.0
+
+⸻
+
+PURPOSE
+
+Establish the full Pre-K curriculum
+for SydTek Scholars with accreditation-ready
+subjects, learning outcomes, seat-time,
+books needed, portfolio evidence,
+and completion requirements.
+
+⸻
+
+GRADE THEME
 
 God Made Everything
 
-Covenant Book
+⸻
+
+COVENANT BOOK
 
 God Made Everything
+Purpose:
+Introduce children to God as Creator.
+Develop wonder, observation,
+gratitude, language development,
+early literacy, early numeracy,
+family belonging, and creation care.
 
-Required Books
+⸻
+
+REQUIRED BOOKS FOR PRE-K
 
 1. God Made Everything
+Covenant Studies
 2. My First Sounds
+Early Reading
 3. My First Marks
+Pre-Writing
 4. God Counts Everything
+Early Mathematics
 5. God Made Animals and Plants
+Science
 6. My Home and My Family
+Social Studies
 7. Little Builders: Technology Around Me
+Digital Literacy
 8. My Pre-K Portfolio
-
-Purpose
-
-Introduce creation, wonder, language,
-early literacy, numbers, observation,
-family, and gratitude.
+Portfolio Workbook
 
 ⸻
 
-KINDERGARTEN
+REQUIRED SUBJECTS
 
-Chunk 38
-KINDERGARTEN_CURRICULUM.md
-
-Grade Theme
-
-God Made Me
-
-Covenant Book
-
-God Made Me
-
-Required Books
-
-1. God Made Me
-2. Phonics of the Promise: Kindergarten
-3. My First Writing Book
-4. God Counts With Me
-5. God Made The World Around Me
-6. My Family, My Home, My World
-7. Little Builders: My First Digital World
-8. My Kindergarten Portfolio
-
-Purpose
-
-Introduce identity, family, obedience,
-kindness, literacy, numeracy,
-digital safety, and covenant belonging.
+Bible / Covenant Studies
+Early Literacy
+Listening
+Speaking
+Pre-Writing
+Early Mathematics
+Science Discovery
+Social Studies
+Digital Awareness
+Art
+Music
+Movement
+Health and Wellness
+Service Learning
+Portfolio
 
 ⸻
 
-GRADE 1
+SEAT-TIME MODEL
 
-Chunk 39
-GRADE_01_CURRICULUM.md
-
-Grade Theme
-
-God Made Families
-
-Covenant Book
-
-God Made Families
-
-Required Books
-
-1. God Made Families
-2. Phonics of the Promise: Grade 1
-3. Sentences of the Promise
-4. God Counts With Families
-5. God Made Living Things
-6. Families, Communities, and Helpers
-7. Little Builders: Safe Technology
-8. My Grade 1 Portfolio
-
-Purpose
-
-Teach family responsibility,
-community, reading fluency,
-basic writing, mathematics,
-science exploration, and service.
+Total Annual Learning Hours
+720
 
 ⸻
 
-EARLY CHILDHOOD COVENANT ARC
+SUBJECT ALLOCATION
 
-Pre-K
-God Made Everything
-Kindergarten
-God Made Me
-Grade 1
-God Made Families
-
-Core Progression
-
-Creation
-      ↓
-Identity
-      ↓
-Family
-
-⸻
-
-EARLY CHILDHOOD BOOK COUNT
-
-Pre-K
-8 Books
-Kindergarten
-8 Books
-Grade 1
-8 Books
-Total Books Required
-24
+Bible / Covenant Studies         80
+Early Literacy                 140
+Pre-Writing                     70
+Mathematics                    100
+Science                         70
+Social Studies                  50
+Digital Awareness               20
+Art                             60
+Music                           50
+Movement                        40
+Health / Wellness               20
+Service Learning                10
+Portfolio                       10
 
 ⸻
 
-ACCREDITATION STATUS
+COVENANT STUDIES OUTCOMES
 
-Chunk 37
-Pre-K Curriculum
-Planned
-Chunk 38
-Kindergarten Curriculum
-Drafted
-Chunk 39
-Grade 1 Curriculum
-Drafted
+Student can identify:
+God made the world.
+God made animals.
+God made plants.
+God made people.
+God loves His creation.
+God wants us to care for others.
+God wants us to be thankful.
 
 ⸻
 
-GITHUB STRUCTURE
+EARLY LITERACY OUTCOMES
 
-courses/
-├── prek/
-│   ├── README.md
-│   ├── prek_curriculum.md
-│   ├── books_needed.md
-│   ├── seat_time_map.md
-│   ├── learning_outcomes.md
-│   ├── assessment_plan.md
-│   └── portfolio_checklist.md
-│
-├── kindergarten/
-│   ├── README.md
-│   ├── kindergarten_curriculum.md
-│   ├── books_needed.md
-│   ├── seat_time_map.md
-│   ├── learning_outcomes.md
-│   ├── assessment_plan.md
-│   └── portfolio_checklist.md
-│
-└── grade-01/
-    ├── README.md
-    ├── grade_01_curriculum.md
-    ├── books_needed.md
-    ├── seat_time_map.md
-    ├── learning_outcomes.md
-    ├── assessment_plan.md
-    └── portfolio_checklist.md
+Recognize letters
+Recognize sounds
+Listen to stories
+Retell simple stories
+Recognize own name
+Identify common words
+Follow simple directions
+
+⸻
+
+PRE-WRITING OUTCOMES
+
+Hold writing tools correctly
+Trace shapes
+Trace letters
+Draw pictures
+Practice lines and curves
+Write first name with assistance
+
+⸻
+
+MATHEMATICS OUTCOMES
+
+Count to 20
+Identify numbers
+Sort objects
+Compare sizes
+Recognize patterns
+Recognize shapes
+Identify colors
+
+⸻
+
+SCIENCE OUTCOMES
+
+Observe weather
+Identify animals
+Identify plants
+Observe seasons
+Recognize living things
+Recognize nonliving things
+Use basic observation skills
+
+⸻
+
+SOCIAL STUDIES OUTCOMES
+
+Identify family members
+Identify home routines
+Identify community helpers
+Recognize school expectations
+Understand sharing
+Understand kindness
+
+⸻
+
+DIGITAL AWARENESS OUTCOMES
+
+Recognize computers
+Recognize tablets
+Recognize phones
+Understand technology is a tool
+Ask adults before using devices
+Practice safe screen habits
+
+⸻
+
+ART OUTCOMES
+
+Draw shapes
+Color within boundaries
+Create simple projects
+Express ideas visually
+
+⸻
+
+MUSIC OUTCOMES
+
+Sing songs
+Keep simple rhythm
+Participate in music activities
+Recognize patterns in sound
+
+⸻
+
+MOVEMENT OUTCOMES
+
+Balance
+Coordination
+Following movement directions
+Safe movement habits
+
+⸻
+
+HEALTH OUTCOMES
+
+Wash hands
+Brush teeth
+Recognize healthy foods
+Identify emotions
+Practice safety habits
+
+⸻
+
+SERVICE LEARNING
+
+Help clean a room
+Help family members
+Share with others
+Show kindness
+Pray for others
+Express gratitude
+
+⸻
+
+PORTFOLIO EVIDENCE
+
+Name Writing Sample
+Drawing Sample
+Counting Sample
+Science Observation Drawing
+Family Drawing
+Creation Drawing
+Kindness Activity
+End-of-Year Reflection
+
+⸻
+
+ASSESSMENT MODEL
+
+Parent Observation
+Portfolio Review
+Activity Completion
+Faculty Review
+Progress Summary
+
+⸻
+
+COMPLETION REQUIREMENTS
+
+Complete 70% of planned activities
+Submit portfolio evidence
+Complete parent verification
+Participate in annual review
+Demonstrate readiness for Kindergarten
+
+⸻
+
+ACCREDITATION ALIGNMENT
+
+Cognia Standard 2
+Learning Capacity
+Evidence:
+Curriculum
+Learning Outcomes
+Student Work
+Portfolio Evidence
+Parent Verification
+Progress Review
+
+⸻
+
+EVIDENCE FOLDER
+
+/courses/prek/
+prek_curriculum.md
+books_needed.md
+seat_time_map.md
+learning_outcomes.md
