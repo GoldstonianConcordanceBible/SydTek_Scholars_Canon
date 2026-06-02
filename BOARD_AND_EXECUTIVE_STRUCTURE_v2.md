@@ -43,10 +43,14 @@ Founding Trustee for Leadership, Culture & Program Development
 
 ------
 Independent Director
+
+Kriday Sharma
+
+⸻
 Secretary
 Independent Director
 
-⸻
+
 
 BOARD HIERARCHY
 
