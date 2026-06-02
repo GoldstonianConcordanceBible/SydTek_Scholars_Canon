@@ -36,6 +36,11 @@ Chief Accreditation Officer
 
 ⸻
 
+Terry Shankle
+Vice Chair of Organizational Development
+Founding Trustee for Leadership, Culture & Program Development
+
+------
 Independent Director
 Secretary
 Independent Director
