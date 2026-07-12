@@ -1,11 +1,3 @@
-Chunk 9 — Title (Copy/Paste)
-
-01_INSTITUTIONAL_ARCHITECTURE/UNIFIED_K_PHD_ARCHITECTURE.md
-
-⸻
-
-Chunk 9 — Content (Copy/Paste)
-
 # SydTek Alpha School
 # Unified K–PhD Institutional Architecture
 **Repository:** SydTek Alpha School  
