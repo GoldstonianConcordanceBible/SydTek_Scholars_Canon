@@ -1,11 +1,3 @@
-Chunk 5 — Title (Copy/Paste)
-
-00_SYDTEK_CANON/K_PHD_MODEL.md
-
-⸻
-
-Chunk 5 — Content (Copy/Paste)
-
 # SydTek Canon
 # Unified K–PhD Educational Model
 **Repository:** SydTek Alpha School  
